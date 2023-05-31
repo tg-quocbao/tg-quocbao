@@ -1,4 +1,4 @@
-### Hi there, I'm new here 👋
+### Hello there, I'm new here 👋
 
 🌱 I’m currently learning C/C++, Python and Git.
 
