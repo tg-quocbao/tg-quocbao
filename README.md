@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm new here 👋
+
+🌱 I’m currently learning C/C++, Python and Git.
+
+I do really love sharing, so I hope you'll find something helpful here. ✌
+
 
 <!--
 **tg-quocbao/tg-quocbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
